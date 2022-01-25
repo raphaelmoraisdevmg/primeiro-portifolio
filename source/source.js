@@ -3,11 +3,16 @@ const bio = document.createElement('p');
 bio.classList.add('bio-text');
 main.appendChild(bio);
 const textoBio = `Olá, 
+Meu nome é Raphael, tenho 28 anos, sou formado em sistemas de 
+informação, moro na cidade de Uberaba – MG.\n
 
-Meu nome é raphael tenho 28 anos sou formado em sistemas de informação, moro na cidade de Uberaba\n 
-Que fica localizada no estado de minas gerais, tenho como hobby ler livros, jogar jogos competitivos de equipe, fazer caminhada entre outros.\n 
+Tenho como hobby ler livros, jogos competitivos em equipe, fazer caminhada\n 
+entre outros.
 
-Estou migrando da área de Infraestrutura suporte na qual eu trabalhei por quase 1 ano,\n 
-quando eu fiquei sabendo que a trybe existia e que a proposta deles era muito boa e depois de pesquisar tudo sobre a escola\n 
-tive a certeza de que aqui seria o lugar certo para ganhar confiança e aprender mais programação. `;
-bio.innerText=textoBio;
+Estou migrando da área de Infraestrutura/suporte na qual eu trabalhei por\n 
+quase 1 ano, Após conhecer e pesquisar sobre a Trybe,\n 
+cheguei a conclusão que havia encontrado o que procurava. Tive a certeza\n 
+de que aqui seria o lugar certo para ganhar confiança e me\n 
+especializar em programação.`
+
+bio.innerText = textoBio;
