@@ -2,6 +2,7 @@
     margin:0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .head-container{
@@ -39,6 +40,7 @@ a{
 .main-container{
     display: flex;
     background-color: whitesmoke;
+    flex-flow: column ;
     height: auto;
     width: 100%;
     align-items: center;
@@ -52,6 +54,14 @@ a{
     border-radius: 40px;
     height: 150px;
     width: 150px;
+    padding: 15px;
+}
+
+.bio-text{
+    background-color: whitesmoke;
+    font-size: 18px;
+    line-height: 10px;
+    text-align:center;
 }
 .skills{
     background-color: whitesmoke;
