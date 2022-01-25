@@ -53,6 +53,37 @@ a{
     height: 200px;
     width: 200px;
 }
+.skills{
+    background-color: whitesmoke;
+    border-top:5px solid gainsboro;
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.skills-item{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background-color:white;
+    border: 2px solid grey;
+    width: 150px;
+    height: 210px;
+}
+.skill-img{
+    width: 100px;
+    height: 100px;
+    
+}
+.skill-title{
+    text-align: center;
+    border-bottom: 2px solid gainsboro;
+    margin-bottom: 5px;
+}
+.skill-text{
+    text-align: center;
+}
 .footer-container{
     display: flex;
     height: auto;
