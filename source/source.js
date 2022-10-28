@@ -10,7 +10,7 @@ Tenho como hobby ler livros, jogos competitivos em equipe, fazer caminhada\n
 entre outros.
 
 Estou migrando da área de Infraestrutura/suporte na qual eu trabalhei por\n 
-quase 1 ano, Após conhecer e pesquisar sobre a Trybe,\n 
+quase 1 ano, Após conhecer e pesquisar sobre\n 
 cheguei a conclusão que havia encontrado o que procurava. Tive a certeza\n 
 de que aqui seria o lugar certo para ganhar confiança e me\n 
 especializar em programação.`
